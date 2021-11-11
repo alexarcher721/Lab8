@@ -1,0 +1,25 @@
+p.header
+{
+color: black;
+font-size: 1.3rem;
+}
+p
+{
+	color:MediumSeaGreen;
+	font-size: 1.1rem;
+}
+body
+{
+background-image: url(Ocean.jpg); background-size: 100%;
+}
+a
+{
+	color:Orange;
+	
+}
+a:hover
+{
+  color:red;
+}
+
+
